@@ -2,3 +2,13 @@ nome numero
 edit 2
 edit 3 pc
 teste
+
+primeiro algoritmo: salvando
+1: Pegar e conferir o bilhete do cliente.
+2: Se estiver no intervalo de 29 minutos antes ou após o início do 
+filme.
+3: Então guiar o cliente para a sala correta.
+4: Se o cliente chegar com 30 minutos ou mais de antecedência.
+5: Então comunicar que a sala ainda não está aberta.
+6: Se o cliente chegar com 30 minutos ou mais de atraso.
+7: Então informar que a entrada não é mais permitida.
